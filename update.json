@@ -1,4 +1,4 @@
 {
-  "version": "1.5.0",
-  "notes": "- Improved GUI. - Fixed read_image() and find_text(). - Bug fixes"
+  "version": "1.5.2",
+  "notes": "- A lot of bug fixes. - Improved performance. - New commands: api.open_url, api.wait (alias)"
 }
